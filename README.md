@@ -6,6 +6,7 @@
 - [Licencia](#licencia)
 - [Contacto](#contacto)
 - [Rama 1](./wiki/rama1.md)
+- [Rama 2](./wiki/rama2.md)
 
 ## Instalacion
 
